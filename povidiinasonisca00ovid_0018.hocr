@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonisca00ovid_0018.png"; bbox 0 0 2062 3400; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 805 1351 1434 1502">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 805 1351 1434 1502">
+     <span class='ocr_line' id='line_1_1' title="bbox 940 1351 1320 1425; baseline -0.003 -19"><span class='ocrx_word' id='word_1_1' title='bbox 940 1351 1173 1425; x_wconf 51' lang='lat' dir='ltr'><strong>&amp;ppyrzgha</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1203 1370 1320 1407; x_wconf 83' lang='lat'><em>1890.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 805 1463 1434 1502; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 805 1463 870 1502; x_wconf 78' lang='grc' dir='ltr'><strong>ΒΥ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 900 1463 1104 1502; x_wconf 79' lang='lat' dir='ltr'>FRANcls</span> <span class='ocrx_word' id='word_1_5' title='bbox 1136 1464 1203 1502; x_wconf 93' lang='lat' dir='ltr'><strong>W.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1236 1463 1434 1502; x_wconf 83' lang='lat' dir='ltr'><strong>KELSEY.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 747 2980 1490 3089">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 747 2980 1490 3089">
+     <span class='ocr_line' id='line_1_3' title="bbox 948 2980 1284 3021; baseline 0.006 -7"><span class='ocrx_word' id='word_1_7' title='bbox 948 2980 1124 3014; x_wconf 74' lang='lat' dir='ltr'><strong>Nnrhuntm</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1146 2980 1284 3021; x_wconf 58' lang='lat' dir='ltr'><strong>{great</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 747 3053 1490 3089; baseline 0.003 -7"><span class='ocrx_word' id='word_1_9' title='bbox 747 3053 891 3082; x_wconf 78' lang='lat' dir='ltr'>Berwick</span> <span class='ocrx_word' id='word_1_10' title='bbox 903 3057 926 3081; x_wconf 83' lang='grc' dir='ltr'><strong>8ι</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 945 3054 1057 3088; x_wconf 80' lang='lat' dir='ltr'>Smith,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1071 3055 1240 3088; x_wconf 83' lang='lat' dir='ltr'>Norwood,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1255 3056 1361 3089; x_wconf 69' lang='grc' dir='ltr'><strong>Μαι,</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1374 3056 1490 3086; x_wconf 80' lang='lat' dir='ltr'>U.S.A.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
